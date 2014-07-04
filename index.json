@@ -1,0 +1,22 @@
+[
+  "cdbtiles",
+  "mbtiles",
+  "mongotiles",
+  "tilelive-bridge",
+  "tilelive-carto",
+  "tilelive-csv",
+  "tilelive-csvin",
+  "tilelive-file",
+  "tilelive-file",
+  "tilelive-http",
+  "tilelive-mapbox",
+  "tilelive-mapnik",
+  "tilelive-null",
+  "tilelive-overlay",
+  "tilelive-s3",
+  "tilelive-tmsource",
+  "tilelive-tmstyle",
+  "tilelive-utfgrid",
+  "tilelive-vector",
+  "tilelive-xray"
+]
