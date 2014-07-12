@@ -1,5 +1,9 @@
 # Changes
 
+## v0.1.2 - 7/11/14
+
+* Added `tilelive-blend` and `tilelive-solid`
+
 ## v0.1.1 - 7/5/14
 
 * Added `tilejson`
