@@ -12,6 +12,7 @@
   "tilelive-http",
   "tilelive-mapbox",
   "tilelive-mapnik",
+  "tilelive-merge",
   "tilelive-null",
   "tilelive-overlay",
   "tilelive-s3",
