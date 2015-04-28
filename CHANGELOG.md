@@ -1,5 +1,10 @@
 # Changes
 
+## vNext
+
+* Added `tilelive-raster`
+* Added `tilelive-fieldpapers`
+
 ## v0.1.3 - 11/24/14
 
 * Added `tilelive-merge`
