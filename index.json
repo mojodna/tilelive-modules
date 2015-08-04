@@ -5,6 +5,7 @@
   "tilelive-blend",
   "tilelive-bridge",
   "tilelive-carto",
+  "tilelive-cartodb",
   "tilelive-csv",
   "tilelive-csvin",
   "tilelive-fieldpapers",
