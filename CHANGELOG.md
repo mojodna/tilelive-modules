@@ -1,9 +1,10 @@
 # Changes
 
-## vNext
+## v0.1.4 - 8/4/15
 
 * Added `tilelive-raster`
 * Added `tilelive-fieldpapers`
+* Added `tilelive-cartodb`
 
 ## v0.1.3 - 11/24/14
 
