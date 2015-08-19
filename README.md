@@ -25,6 +25,8 @@ var opts = require("nomnom")
     }
 }).parse();
 
+// opts.require is now an array of module names
+
 var tilelive = require("tilelive");
 require("tilelive-modules/loader")(tilelive, opts);
 ```
