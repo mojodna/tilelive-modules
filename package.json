@@ -2,7 +2,7 @@
   "name": "tilelive-modules",
   "version": "0.1.4",
   "description": "A listing of known tilelive modules",
-  "main": "index.json",
+  "main": "./lib/index.js",
   "author": "Seth Fitzsimmons <seth@mojodna.net>",
   "repository": {
     "type": "git",
