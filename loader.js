@@ -1,6 +1,6 @@
 "use strict";
 
-var modules = require("../index.json");
+var modules = require("./index.json");
 
 module.exports = function(tilelive, options) {
   options = options || {};
