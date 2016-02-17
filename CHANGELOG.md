@@ -1,5 +1,9 @@
 # Changes
 
+## v0.2.0 - 8/19/15
+
+* Added module loading functionality (`tilelive-modules/loader`) (@JesseCrocker)
+
 ## v0.1.4 - 8/4/15
 
 * Added `tilelive-raster`
