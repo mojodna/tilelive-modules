@@ -1,5 +1,9 @@
 # Changes
 
+## v0.2.1 - 2/22/16
+
+* Added `tilelive-omnivore`
+
 ## v0.2.0 - 8/19/15
 
 * Added module loading functionality (`tilelive-modules/loader`) (@JesseCrocker)

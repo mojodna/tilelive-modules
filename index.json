@@ -15,6 +15,7 @@
   "tilelive-mapnik",
   "tilelive-merge",
   "tilelive-null",
+  "tilelive-omnivore",
   "tilelive-overlay",
   "tilelive-raster",
   "tilelive-s3",
