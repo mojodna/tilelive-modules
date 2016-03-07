@@ -24,6 +24,6 @@
   "tilelive-tmstyle",
   "tilelive-utfgrid",
   "tilelive-vector",
-  "tilelive-xray",
-  "tilejson"
+  "tilejson",
+  "tilelive-xray"
 ]
