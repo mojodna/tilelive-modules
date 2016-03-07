@@ -1,5 +1,9 @@
 # Changes
 
+## v0.3.0
+
+* Load `tilelive-xray` last so that it can be aware of all available modules (@JesseCrocker)
+
 ## v0.2.1 - 2/22/16
 
 * Added `tilelive-omnivore`
