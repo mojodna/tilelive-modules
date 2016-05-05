@@ -1,6 +1,6 @@
 # Changes
 
-## v0.3.0
+## v0.3.0 - 5/4/16
 
 * Load `tilelive-xray` last so that it can be aware of all available modules (@JesseCrocker)
 * Added `tilelive-leveldb`
