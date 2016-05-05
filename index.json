@@ -11,6 +11,7 @@
   "tilelive-fieldpapers",
   "tilelive-file",
   "tilelive-http",
+  "tilelive-leveldb",
   "tilelive-mapbox",
   "tilelive-mapnik",
   "tilelive-merge",
