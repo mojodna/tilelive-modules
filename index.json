@@ -10,6 +10,7 @@
   "tilelive-csvin",
   "tilelive-fieldpapers",
   "tilelive-file",
+  "tilelive-foxgis",
   "tilelive-http",
   "tilelive-leveldb",
   "tilelive-mapbox",
