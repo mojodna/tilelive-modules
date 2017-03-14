@@ -1,5 +1,9 @@
 # Changes
 
+## v0.3.2 - 3/14/17
+
+* Add `@mapbox`-scoped modules
+
 ## v0.3.1 - 5/15/16
 
 * Added `tilelive-foxgis`
