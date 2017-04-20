@@ -1,5 +1,9 @@
 # Changes
 
+## v0.3.3 - 4/20/17
+
+* Add `tilelive-postgis`
+
 ## v0.3.2 - 3/14/17
 
 * Add `@mapbox`-scoped modules
