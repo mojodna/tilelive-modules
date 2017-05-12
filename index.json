@@ -1,6 +1,7 @@
 [
   "cdbtiles",
   "mbtiles",
+  "@mapbox/mbtiles",
   "mongotiles",
   "tilelive-blend",
   "tilelive-bridge",
