@@ -8,7 +8,7 @@ Please submit pull requests with additional modules.
 ## Usage
 
 ```javascript
-var tilelive = require("tilelive");
+var tilelive = require("@mapbox/tilelive");
 require("tilelive-modules/loader")(tilelive);
 ```
 
@@ -27,6 +27,6 @@ var opts = require("nomnom")
 
 // opts.require is now an array of module names
 
-var tilelive = require("tilelive");
+var tilelive = require("@mapbox/tilelive");
 require("tilelive-modules/loader")(tilelive, opts);
 ```
