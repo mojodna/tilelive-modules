@@ -1,5 +1,9 @@
 # Changes
 
+## v0.3.4 - 6/14/17
+
+* Add `@mapbox/mbtiles` and `@mapbox/tilejson`
+
 ## v0.3.3 - 4/20/17
 
 * Add `tilelive-postgis`
