@@ -22,7 +22,7 @@ module.exports = function(tilelive, options) {
       if (typeof(mod.registerProtocols) === "function") {
         mod.registerProtocols(tilelive);
       } else {
-        mod(tilelive);
+        mod(tilelive, options[mod]);
       }
     } catch (err) {
       console.warn(err.stack);
