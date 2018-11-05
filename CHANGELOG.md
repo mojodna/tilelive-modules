@@ -1,5 +1,9 @@
 # Changes
 
+## vNext
+
+* Add `tilelive-tapalcatl`
+
 ## v0.4.0 - 11/24/17
 
 * Allow per-module options to be set via options like `{ "tilelive-http": { retry: true } }` passed to the loader.
