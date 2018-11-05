@@ -28,6 +28,7 @@
   "tilelive-s3",
   "@mapbox/tilelive-s3",
   "tilelive-solid",
+  "tilelive-tapalcatl",
   "tilelive-tmsource",
   "tilelive-tmstyle",
   "tilelive-utfgrid",
