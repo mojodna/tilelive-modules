@@ -1,6 +1,6 @@
 # Changes
 
-## vNext
+## v0.4.1 - 11/5/18
 
 * Add `tilelive-tapalcatl`
 
