@@ -1,5 +1,9 @@
 # Changes
 
+## v0.4.2 - 1/3/19
+
+* Add `tilelive-gl`
+
 ## v0.4.1 - 11/5/18
 
 * Add `tilelive-tapalcatl`

@@ -13,6 +13,7 @@
   "tilelive-fieldpapers",
   "tilelive-file",
   "tilelive-foxgis",
+  "tilelive-gl",
   "tilelive-http",
   "tilelive-leveldb",
   "tilelive-mapbox",
